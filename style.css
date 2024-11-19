@@ -2,14 +2,33 @@
 /* O # pega um id  */
 /* quando tem o espaço antes do ponto esta dentro da classe */
 
-.tituloSite{
-    background-color: blue;
+header .tituloSite{
+    background-color: black;
+    color:white;
+    text-align: center;
+    font-size: 25px;
+}
+h2{
+    font-size: 17px;
 }
 
 .tituloSite{
-    color:white;
+    color: black;
     padding: 10px;
-    text-align: center;
-    font-size: 32px;
+    font-size: 20px;
 
+}
+
+footer {
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    font-size: 14px;
+
+}
+
+img{
+    width: 800px;
+    display: block;
+    margin: 0 auto;
 }
